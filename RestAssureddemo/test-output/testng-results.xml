@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-16T13:35:37 CST" name="Default suite" finished-at="2023-11-16T13:35:40 CST" duration-ms="2915">
+    <groups>
+    </groups>
+    <test started-at="2023-11-16T13:35:37 CST" name="Default test" finished-at="2023-11-16T13:35:40 CST" duration-ms="2915">
+      <class name="SpecBuilder.MapProject">
+        <test-method signature="SpecBuilderTest()[pri:0, instance:SpecBuilder.MapProject@55182842]" started-at="2023-11-16T13:35:37 CST" name="SpecBuilderTest" finished-at="2023-11-16T13:35:40 CST" duration-ms="2876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SpecBuilderTest -->
+      </class> <!-- SpecBuilder.MapProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
